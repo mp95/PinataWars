@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=w
+comment0.target=void\ mouseSobreSimbolo(greenfoot.World)
+comment0.text=\r\n\ Este\ metodo\ abstracto\ solo\ indica\ que\ si\ el\ mause\ esta\ sobre\ el\ simbolo\r\n\ realiza\ cierta\ actividad\ dependiendo\ de\ su\ redefinicion\r\n\ \r\n\ @param\ w\ es\ el\ mundo\ actual\ donde\ esta\ el\ simbolo\r\n
+comment1.params=w\ m
+comment1.target=void\ empezarJuego(greenfoot.World,\ greenfoot.GreenfootSound)
+comment1.text=\r\n\ este\ metodo\ abstracto\ solo\ indica\ cuando\ o\ porque\ condicionales\ empieza\ el\ juago\r\n\ dependiendo\ de\ la\ redifinicion\ \r\n\ \r\n\ @param\ w\ el\ mundo\ actual\ del\ simbolo\r\n\ @param\ m\ la\ musica\ actual\ del\ mundo\r\n
+numComments=2

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=w
+comment0.target=void\ mouseSobreObjecto(greenfoot.World)
+comment0.text=\r\n\ Cuando\ el\ Mause\ se\ encuentra\ sobre\ el\ Objecto\r\n\ @param\ w\ el\ mundo\ donde\ se\ encuentra\ el\ Objecto\r\n
+comment1.params=m\ w
+comment1.target=void\ cambiaMundo(greenfoot.GreenfootSound,\ greenfoot.World)
+comment1.text=\r\n\ Cuando\ se\ hizo\ click\ en\ el\ objecto\ y\ hace\ una\ transicion\ del\ mundo\r\n\ @param\ m\ la\ musica\ que\ se\ escucha\ el\ el\ momento\r\n\ @param\ w\ el\ mundo\ donde\ se\ encuentra\ el\ objecto\r\n
+numComments=2

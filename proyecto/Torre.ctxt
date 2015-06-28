@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=num
+comment0.target=boolean\ noHayObjectos(int)
+comment0.text=\r\n\ Indica\ si\ alrededor\ de\ la\ torre\ hay\ Guerreros\r\n\ \ @param\ num\ indica\ que\ objecto\ busca\r\n\ \ @return\ true\ si\ hay\ objectos\r\n\ \ @return\ false\ si\ no\r\n
+comment1.params=b
+comment1.target=Vida\ creaVida(boolean)
+comment1.text=\r\n\ Crea\ la\ vida\ de\ la\ torre\ \r\n\ @param\ b\ el\ bando\ que\ pertenece\ la\ torre\r\n\ \r\n\ @return\ devuelve\ el\ objecto\ Vida\ ya\ creada\r\n
+comment2.params=dano\ b\ vid
+comment2.target=int\ afectado(int,\ boolean,\ Vida)
+comment2.text=\r\n\ si\ la\ torre\ recibio\ algun\ da\u00F1o\r\n\ \r\n\ @param\ dano\ el\ da\u00F1o\ que\ recibio\r\n\ @param\ b\ el\ bando\ \r\n\ @param\ vid\ la\ vida\ que\ se\ disminuira\r\n\ \r\n\ @return\ un\ 1\ si\ ya\ no\ se\ puedo\ reducir\r\n\ @return\ un\ 0\ si\ lo\ logro\r\n
+comment3.params=inc\ b\ vid
+comment3.target=void\ rebilitado(int,\ boolean,\ Vida)
+comment3.text=\r\n\ la\ torre\ recibe\ un\ incremento\ de\ vida\r\n\ \r\n\ @param\ inc\ el\ incremento\ que\ recibio\r\n\ @param\ b\ el\ bando\ \r\n\ @param\ vid\ la\ vida\ que\ se\ aumentara\r\n\ \r\n
+numComments=4

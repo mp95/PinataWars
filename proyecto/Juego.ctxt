@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=escenario\ jug\ ene
+comment0.target=Juego(int,\ Jugador,\ Enemigo)
+comment0.text=\r\n\ METODO\ CONSTRUCTOR\r\n\ este\ es\ el\ costructor\ inicial\ del\ juego\ y\ este\ propone\ las\ instancias\ iniciales\ del\ mundo\r\n\ @param\ escenario\ el\ ecsenario\ donde\ se\ desarrolla\ va\ el\ 1\ al\ 5\r\n\ @param\ jug\ es\ la\ informacion\ general\ del\ jugador\ (UNA\ CLASE\ JUGADOR)\r\n\ @param\ ene\ es\ la\ informacion\ general\ del\ enemigo\ (UNA\ CLASE\ ENEMIGO)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\nMetodo\ Act\:\r\nindica\ lo\ que\ hara\ en\ el\ juego\ el\ escenario\r\nprincipal\ mente\ el\ que\ caigan\ monedas\ para\ activar\ poderes\r\n
+comment2.params=
+comment2.target=void\ activaFire()
+comment2.text=\r\n\ Activa\ la\ bandera\ para\ activa\ el\ poder\ le\ las\ bolas\ de\ fuego\r\n
+comment3.params=
+comment3.target=void\ activaIce()
+comment3.text=\r\n\ Activa\ la\ bandera\ para\ activa\ el\ poder\ le\ las\ bolas\ de\ Hielo\r\n
+numComments=4

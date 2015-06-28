@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=m\ j
+comment0.target=BotonMenu(greenfoot.GreenfootSound,\ Jugador)
+comment0.text=\r\n\ CONSTRUCTOR\ DE\ LA\ CLASE\r\n\ \r\n\ @param\ m\ musica\ actual\r\n\ @param\ j\ el\ objecto\ jugador\ que\ contiene\ la\ imformacion\ del\ mismo\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ indica\ que\ se\ hara\ en\ la\ ejecion\r\n
+numComments=2

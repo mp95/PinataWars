@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=next\ prev\ music\ jug\ ene
+comment0.target=EscogeE5(int,\ int,\ greenfoot.GreenfootSound,\ Jugador,\ Enemigo)
+comment0.text=\r\n\ Constructor\ para\ objetos\ de\ clase\ EscogeE5.\r\n\ \r\n\ @param\ next\ indica\ el\ escenario\ siguente\ en\ direccion\ derecha\r\n\ @param\ prev\ indica\ el\ escenario\ posterior\ en\ direccion\ izquierda\r\n\ @param\ music\ musica\ de\ la\ clase\ GreenfootSound\r\n\ @param\ jug\ indica\ un\ jugador\ (informacion\ basica\ del\ mismo)\r\n\ @param\ ene\ indica\ un\ jugador\ (informacion\ basica\ del\ mismo)\r\n\ \r\n
+numComments=1

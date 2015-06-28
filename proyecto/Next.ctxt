@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=direccion\ m1\ j\ e
+comment0.target=Next(int,\ greenfoot.GreenfootSound,\ Jugador,\ Enemigo)
+comment0.text=\r\n\ Constructor\ de\ la\ clase\r\n\ \r\n\ @param\ direccion\ bandera\ que\ indica\ la\ direccion\r\n\ @param\ m1\ es\ la\ musica\ que\ actual\ que\ se\ envia\r\n\ @param\ Juagador\ los\ datos\ del\ jugador\r\n\ @param\ Enemigo\ los\ datos\ del\ enemigo\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Indica\ lo\ que\ se\ hara\ durante\ el\ juego\r\n
+comment2.params=w
+comment2.target=void\ mouseSobreObjecto(greenfoot.World)
+comment2.text=\r\n\ heredado\ de\ la\ clase\ abstracta\ Boton\ indica\ si\ el\ cursor\ est\ sobre\ el\ y\ manda\ una\ respuesta\ visual\r\n\ \r\n\ @param\ w\ mundo\ actual\r\n
+comment3.params=m\ w
+comment3.target=void\ cambiaMundo(greenfoot.GreenfootSound,\ greenfoot.World)
+comment3.text=\r\n\ heredado\ de\ la\ clase\ abstracta\ Boton\ indica\ si\ el\ cursor\ est\ sobre\ el\ y\ manda\ una\ respuesta\ visual\r\n\ \r\n\ @param\ w\ mundo\ actual\r\n
+numComments=4

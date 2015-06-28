@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=bando\ jug\ m
+comment0.target=FinalEscenario(boolean,\ Jugador,\ greenfoot.GreenfootSound)
+comment0.text=\r\n\ Constructor\ para\ objetos\ de\ clase\ FinalEscenario.\r\n\ \r\n\ Este\ es\ el\ contructor\ que\ crea\ el\ ecsenario\ fianl\ donde\ te\ marca\ si\ GANASTE\ O\ PERDISTE\r\n\ \r\n\ @param\ bando\ indica\ el\ bando\ si\ es\ Luz\ o\ Obscuridad\ del\ jugador\r\n\ @param\ jug\ lleva\ los\ datos\ del\ jugador\ Nombre,Puntos,etc\r\n\ @param\ m\ es\ la\ musica\ que\ se\ usa\ para\ el\ funcionamiento\ del\ juego\r\n\ \r\n
+numComments=1

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Vida()
+comment0.text=\r\n\ COSNTRUCTOR\ DE\ LA\ CLASE\ VIDA\r\n
+comment1.params=dano\ vd
+comment1.target=int\ reduceVida(int,\ greenfoot.GreenfootImage)
+comment1.text=\r\n\ Reduce\ la\ vida\ de\ cierta\ torre,\ su\ ancho\ de\ la\ figura\ disminuye\ (Cambia\ de\ color\ dependiendo\ del\ tama\u00F1o)\r\n\ \r\n\ @param\ dano\ valor\ del\ da\u00F1o\ recibido\r\n\ @param\ vd\ la\ imagen\ actual\ (Rectangulo)\ que\ representa\ la\ vida\r\n\ \r\n\ @return\ Devuelve\ un\ 0\ si\ se\ disminuyo,\ un\ 1\ si\ no\r\n
+comment2.params=inc\ vd
+comment2.target=int\ incrementaVida(int,\ greenfoot.GreenfootImage)
+comment2.text=\r\n\ Aumenta\ la\ vida(ancho)\ del\ rectangulo\ i\r\n\ \r\n\ @param\ inc\ el\ valor\ de\ lo\ que\ aumentara\r\n\ @param\ vid\ la\ imagen\ actual(Rectangulo)\ que\ representa\ la\ vida\r\n\ \r\n\ @return\ Devuelve\ un\ 0\ si\ se\ aumento,\ un\ 1\ si\ no\r\n
+comment3.params=dano\ vd
+comment3.target=boolean\ basta(int,\ greenfoot.GreenfootImage)
+comment3.text=\r\n\ Indica\ si\ el\ da\u00F1o\ es\ mayor\ al\ ancho\ de\ la\ imagen\r\n\ \r\n\ @param\ dano\ valor\ del\ da\u00F1o\ recibido\r\n\ @param\ vd\ la\ imagen\ actual\ (Rectangulo)\ que\ representa\ la\ vida\r\n\ \r\n\ @return\ Devuelve\ un\ true\ en\ caso\ que\ si\ sea\ mayor\ y\ un\ false\ en\ caso\ contrario\r\n
+comment4.params=inc\ vd
+comment4.target=boolean\ tope(int,\ greenfoot.GreenfootImage)
+comment4.text=\r\n\ Indica\ si\ ya\ no\ se\ puede\ aumentar\ mas\ a\ la\ vida\ puesto\ que\ llego\ a\ sui\ maximo\r\n\ \r\n\ @param\ inc\ valor\ del\ incremento\ recibido\r\n\ @param\ vd\ la\ imagen\ actual\ (Rectangulo)\ que\ representa\ la\ vida\r\n\ \r\n\ @return\ Devuelve\ un\ true\ si\ esta\ en\ el\ tope\ y\ un\ false\ en\ su\ caso\ contrario\r\n
+numComments=5

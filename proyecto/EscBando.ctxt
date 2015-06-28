@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=musica
+comment0.target=EscBando(greenfoot.GreenfootSound)
+comment0.text=\r\n\ CONSTRUCTOR\r\n\ es\ pone\ las\ condiciones\ basicas\ para\ la\ cracion\ del\ escenario\r\n\ botones,\ fondo,\ musica\ ,\ etc.\r\n\ \r\n\ @param\ musica\ un\ sonido\ de\ la\ clase\ GreenfootSound\r\n
+numComments=1

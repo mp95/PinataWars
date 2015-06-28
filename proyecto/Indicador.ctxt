@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Indicador()
+comment0.text=\r\n\ Constructor\ de\ la\ clase\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Indica\ lo\ que\ se\ hara\ durante\ el\ juego\r\n
+comment2.params=
+comment2.target=void\ aumenta()
+comment2.text=\r\n\ Aumenta\ la\ cantidad\ en\ una\ unidad\r\n
+comment3.params=
+comment3.target=void\ clear()
+comment3.text=\r\n\ Borra\ la\ cantidad\ (Asigna\ a\ cero)\ y\ pone\ a\ la\ imagen\ en\ un\ estado\ original\r\n
+numComments=4

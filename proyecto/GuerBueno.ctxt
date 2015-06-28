@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=dir
+comment0.target=boolean\ objectoEnFrente(int)
+comment0.text=\r\n\ Indica\ si\ un\ Guerrero\ este\ enfrente\ de\ otro\ \r\n\ \r\n\ @param\ dir\ direccion\ donde\ mira\ el\ Objecto\r\n\ \r\n\ @return\ devuelve\ false\ si\ no\ hay\ guerrero\ ,\ true\ si\ lo\ hay\r\n
+comment1.params=
+comment1.target=int\ retribulleDinero()
+comment1.text=\r\n\ Devuelve\ el\ dinero\ que\ tenga\ durante\ el\ juego\r\n\ \r\n\ @return\ la\ cantidad\ de\ dinero\ que\ tiene\r\n
+comment2.params=
+comment2.target=int\ retribulleScore()
+comment2.text=\r\n\ Devuelve\ el\ Score\ que\ tenga\ durante\ el\ juego\r\n\ \r\n\ @return\ la\ cantidad\ de\ Score\ que\ tiene\r\n
+comment3.params=
+comment3.target=void\ cambiaDireccion()
+comment3.text=\r\n\ Cambia\ la\ direccion\ del\ objecto\ por\ la\ contraria\r\n
+numComments=4

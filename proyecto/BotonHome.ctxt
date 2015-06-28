@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=m
+comment0.target=BotonHome(greenfoot.GreenfootSound)
+comment0.text=\r\n\ CONSTRUCTOR\ DE\ LA\ CLASE\r\n\ \r\n\ @param\ m\ el\ archivo\ de\ musica\ actual\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Indica\ que\ se\ hara\ durante\ la\ ejecucion\r\n
+comment2.params=
+comment2.target=void\ cambiaMundo()
+comment2.text=\r\n\ cambia\ el\ mundo\ en\ este\ caso\ al\ inicio\ del\ juego\r\n
+numComments=3

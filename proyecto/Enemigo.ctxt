@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Enemigo()
+comment0.text=\r\n\ Constructor\ para\ objetos\ de\ clase\ Enemigo.\r\n
+comment1.params=unBando
+comment1.target=void\ setBando(boolean)
+comment1.text=\r\n\ pone\ el\ valor\ del\ bando\r\n\ \r\n\ @param\ unBando\ true\ para\ la\ luz,\ false\ para\ la\ obscuridad\r\n
+comment2.params=
+comment2.target=boolean\ getBando()
+comment2.text=\r\n\ devuelve\ el\ valor\ del\ bando\r\n\ \r\n\ @return\ true\ para\ la\ luz,\ false\ para\ la\ obscuridad\r\n
+numComments=3

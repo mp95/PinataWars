@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=w
+comment0.target=void\ eliminaTodos(greenfoot.World)
+comment0.text=\r\n\ METODO\:\ Elimina\ a\ todo\ los\ personajes\ del\ Juego\ a\ causa\ de\ una\ infeccion\ mortal\r\n\ \r\n\ @param\ w\ es\ el\ mundo\ donde\ se\ enuentran\ los\ personajes\r\n
+numComments=1

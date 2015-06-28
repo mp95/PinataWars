@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=unaMusica
+comment0.target=Luz(greenfoot.GreenfootSound)
+comment0.text=\r\n\ CONSTRUCTOR\r\n\ construye\ las\ caracteristicas\ iniciales\ de\ un\ simbolo\r\n\ @param\ unaMusica\ musica\ actual\ del\ mundo\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ el\ metodo\ act\ es\ heredado\ de\ la\ clase\ Actor\ indica\ lo\ que\ hace\ durante\ su\ activacion\ \r\n
+comment2.params=world
+comment2.target=void\ mouseSobreSimbolo(greenfoot.World)
+comment2.text=\r\n\ este\ metodo\ hace\ lo\ siguente\ cuando\ el\ cursor\ esta\ sobre\ el\ objecto\ se\ activa\ generando\ un\ resplandor\ \r\n\ alrededor\ del\ objecto\r\n\ \r\n\ @param\ world\ es\ el\ mundo\ actual\ del\ objecto\r\n
+comment3.params=world\ music
+comment3.target=void\ empezarJuego(greenfoot.World,\ greenfoot.GreenfootSound)
+comment3.text=\r\n\ este\ metodo\ cambia\ el\ mundo\ del\ actual\r\n\ \r\n\ @param\ world\ mundo\ actual\r\n\ @param\ music\ musica\ actual\r\n
+numComments=4

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=unNum
+comment0.target=GuerreroDark3(int)
+comment0.text=\r\n\ Constructor\ de\ la\ clase\r\n\ \r\n\ @param\ unNum\ indica\ donde\ mirara\ el\ Guerrero\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Indica\ que\ hara\ durante\ el\ juego\r\n
+comment2.params=dir
+comment2.target=boolean\ objectoEnFrente(int)
+comment2.text=\r\n\ Indica\ si\ un\ Guerrero\ este\ enfrente\ de\ otro\ se\ redifine\ debido\ al\ tama\u00F1o\ de\ Objecto\r\n\ \r\n\ @param\ dir\ direccion\ donde\ mira\ el\ Objecto\r\n\ \r\n\ @return\ devuelve\ false\ si\ no\ hay\ guerrero\ ,\ true\ si\ lo\ hay\r\n
+comment3.params=
+comment3.target=int\ retribulleDinero()
+comment3.text=\r\n\ Devuelve\ el\ dinero\ que\ tenga\ durante\ el\ juego\r\n\ \r\n\ @return\ la\ cantidad\ de\ dinero\ que\ tiene\r\n
+comment4.params=
+comment4.target=int\ retribulleScore()
+comment4.text=\r\n\ Devuelve\ el\ Score\ que\ tenga\ durante\ el\ juego\r\n\ \r\n\ @return\ la\ cantidad\ de\ Score\ que\ tiene\r\n
+comment5.params=
+comment5.target=void\ cambiaDireccion()
+comment5.text=\r\n\ Cambia\ la\ direccion\ del\ objecto\ por\ la\ contraria\r\n
+numComments=6

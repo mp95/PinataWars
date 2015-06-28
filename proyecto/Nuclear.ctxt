@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Nuclear()
+comment0.text=\r\n\ CONSTRUCTOR\ DE\ CLASE\ NUCLEAR\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Indica\ que\ se\ hara\ durante\ el\ juego\r\n
+comment2.params=w
+comment2.target=void\ eliminaTodos(greenfoot.World)
+comment2.text=\r\n\ METODO\:\ Elimina\ a\ todo\ los\ personajes\ del\ Juego\r\n\ \r\n\ @param\ w\ es\ el\ mundo\ donde\ se\ enuentran\ los\ personajes\r\n
+numComments=3

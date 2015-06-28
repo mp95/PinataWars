@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Inicio()
+comment0.text=\r\n\ PRIMER\ CONSTRUCTOR\r\n\ este\ es\ el\ primer\ constructor\ no\ tiene\ parametros\ de\ entrada\ puesto\ que\ este\ genera\ las\ condiciones\r\n\ iniciales\ como\ la\ ventana\ visual,\ los\ botones\ y\ la\ musica\ de\ fondo\r\n\ esta\ metodo\ se\ llama\ desde\ la\ ejecucion(LA\ PRIMERA\ EJECUCION)\ o\ cuando\ hay\ un\ reinicio\ del\ juego\r\n\ \r\n
+comment1.params=music
+comment1.target=Inicio(greenfoot.GreenfootSound)
+comment1.text=\r\n\ SEGUNDO\ CONSTRUCTOR\r\n\ este\ se\ llama\ ya\ en\ otras\ lineas\ de\ codigo\ y\ solo\ cuanta\ con\ un\ parametro\ que\ es\ la\ musica\ para\ que\ la\ musica\ original\ \r\n\ la\ que\ se\ escucha\ en\ la\ primara\ ejecucion\ no\ se\ pierda\ en\ los\ escenario\ de\ la\ AYUDA,\ LOGROS\ Y\ AUTORES\ y\ se\ detenga\ cuando\r\n\ se\ comience\ el\ JUEGO\r\n\ \r\n\ @param\ music\ musica\ previa\ a\ la\ llamada\r\n
+numComments=2

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=dir
+comment0.target=Tornado(int)
+comment0.text=\r\n\ Constructor\ de\ la\ clase\r\n\ \r\n\ @param\ dir\ direccion\ del\ moviento\ 1\ para\ derecha\ ,\ -1\ para\ izquierda\r\n\ \r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Indica\ lo\ que\ se\ hara\ durante\ el\ juego\r\n
+numComments=2

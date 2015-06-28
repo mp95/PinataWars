@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Coins()
+comment0.text=\r\n\ Constructor\ de\ Coins\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ el\ metodo\ que\ se\ llame\ e\ indica\ que\ se\ hara\ durante\ el\ juego\r\n
+comment2.params=
+comment2.target=void\ muevete()
+comment2.text=\r\n\ Indica\ el\ movimiento\ de\ caida\ durante\ el\ juego\r\n
+numComments=3

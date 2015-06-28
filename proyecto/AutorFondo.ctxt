@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=musica
+comment0.target=AutorFondo(greenfoot.GreenfootSound)
+comment0.text=\r\n\ Este\ es\ el\ constructor\ del\ la\ clase\ solamente\ inicia\ las\ condiciones\ iniciales\ del\r\n\ Escenario\r\n\ \r\n\ @param\ musica\ es\ la\ musica\ que\ suena\ en\ el\ fondo\r\n
+numComments=1

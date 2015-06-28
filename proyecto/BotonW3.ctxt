@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=tb
+comment0.target=BotonW3(int)
+comment0.text=\r\n\ CONSTRUCTOR\ DE\ LA\ CLASE\r\n\ \r\n\ @param\ tb\ el\ tiempo\ de\ espera\ para\ su\ activacion\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ \ Indica\ lo\ que\ hara\ el\ Objecto\ en\ la\ ejecucion\r\n
+comment2.params=
+comment2.target=boolean\ estasActivado()
+comment2.text=\r\n\ Indica\ si\ el\ Boton\ esta\ activa\ o\ no\r\n\ \r\n\ @return\ regresa\ si\ esta\ o\ no\ activado\ el\ boton\r\n
+numComments=3

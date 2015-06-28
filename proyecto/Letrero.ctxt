@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=unTexto\ color
+comment0.target=Letrero(java.lang.String,\ java.awt.Color)
+comment0.text=\r\n\ Constructor\ de\ la\ Clase\r\n\ \r\n\ @param\ unTexto\ recibe\ un\ texto\ \r\n\ @param\ color\ recibe\ un\ objecto\ color\r\n
+comment1.params=unTexto\ color
+comment1.target=void\ modificaLetrero(java.lang.String,\ java.awt.Color)
+comment1.text=\r\n\ Modifica\ el\ texto\ \r\n\ \r\n\ @param\ unTexto\ recibe\ un\ texto\ \r\n\ @param\ color\ recibe\ un\ objecto\ color\r\n
+numComments=2

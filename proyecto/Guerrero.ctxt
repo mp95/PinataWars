@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=band\ img1\ img2\ dir
+comment0.target=int\ muevete(int,\ greenfoot.GreenfootImage,\ greenfoot.GreenfootImage,\ int)
+comment0.text=\r\n\ Proporciona\ el\ movimiento\ de\ un\ guerrero\r\n\ \r\n\ @pram\ band\ el\ bando\ que\ pertence\r\n\ @param\ img1\ recibe\ una\ imagen\r\n\ @param\ img2\ recibe\ una\ Imagen\r\n\ @param\ dir\ indica\ la\ direcion\ del\ movimiento\ 1\ derecha\ ,\ -1\ izquierda\r\n\ \r\n\ @return\ debuelve\ el\ bando\ que\ pertenece\ true\ Luz\ ,\ false\ obscuridad\ \r\n\ \r\n
+comment1.params=
+comment1.target=void\ estaAlBorde()
+comment1.text=\r\n\ Indica\ si\ un\ Objecto\ est\ en\ el\ borde\ de\ la\ pantalla\ si\ lo\ esta\ lo\ elimina\r\n
+comment2.params=
+comment2.target=void\ muere()
+comment2.text=\r\n\ provoca\ la\ muerte\ de\ un\ determinado\ guerrero,\ lo\ elimina\ del\ escenario\ o\ mundo\r\n
+numComments=3

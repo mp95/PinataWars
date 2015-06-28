@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=unNum
+comment0.target=GuerreroDark1(int)
+comment0.text=\r\n\ Constructor\ de\ la\ clase\r\n\ \r\n\ @param\ unNum\ indica\ donde\ mirara\ el\ Guerrero\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Indica\ que\ hara\ durante\ el\ juego\r\n
+comment2.params=
+comment2.target=int\ retribulleDinero()
+comment2.text=\r\n\ Devuelve\ el\ dinero\ que\ tenga\ durante\ el\ juego\r\n\ \r\n\ @return\ la\ cantidad\ de\ dinero\ que\ tiene\r\n
+comment3.params=
+comment3.target=int\ retribulleScore()
+comment3.text=\r\n\ Devuelve\ el\ Score\ que\ tenga\ durante\ el\ juego\r\n\ \r\n\ @return\ la\ cantidad\ de\ Score\ que\ tiene\r\n
+comment4.params=
+comment4.target=void\ cambiaDireccion()
+comment4.text=\r\n\ Cambia\ la\ direccion\ del\ objecto\ por\ la\ contraria\r\n
+numComments=5

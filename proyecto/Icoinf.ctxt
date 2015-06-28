@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=m1
+comment0.target=Icoinf(greenfoot.GreenfootSound)
+comment0.text=\r\n\ Constructor\ de\ la\ clase\r\n\ \r\n\ @param\ m1\ un\ Archivo\ de\ sonido\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ metodo\ act\ heredado\ de\ actor\r\n
+comment2.params=w
+comment2.target=void\ mouseSobreObjecto(greenfoot.World)
+comment2.text=\r\n\ heredado\ de\ la\ clase\ abstracta\ Boton\ indica\ si\ el\ cursor\ est\ sobre\ el\ y\ manda\ una\ respuesta\ visual\r\n\ \r\n\ @param\ w\ mundo\ actual\r\n
+comment3.params=m\ w
+comment3.target=void\ cambiaMundo(greenfoot.GreenfootSound,\ greenfoot.World)
+comment3.text=\r\n\ Herado\ de\ la\ clase\ abstracta\ Boton\ si\ se\ presiono\ el\ objecto\ con\ el\ cursor\ cambia\ el\ \r\n\ mundo\ donde\ se\ encuentra\r\n\ \r\n\ @param\ m\ musica\ actual\r\n\ @param\ w\ mundo\ actual\r\n
+numComments=4

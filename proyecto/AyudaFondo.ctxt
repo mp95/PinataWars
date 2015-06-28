@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=music
+comment0.target=AyudaFondo(greenfoot.GreenfootSound)
+comment0.text=\r\n\ Construye\ las\ caracteristicas\ iniciales\ de\ la\ ventana\ de\ ayuda\r\n\ \r\n\ @param\ music\ una\ musica\ de\ la\ clase\ GreenfootSound\r\n
+numComments=1
